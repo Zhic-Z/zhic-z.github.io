@@ -32,9 +32,8 @@ I am a senior undergraduate student at Zhejiang Sci‑Tech University and an inc
 [The formation of elliptical Néel-type skyrmions via anisotropic exchange and Dzyaloshinskii–Moriya interactions](https://pubs.aip.org/aip/apl/article-abstract/127/18/182402/3370491/The-formation-of-elliptical-Neel-type-skyrmions?redirectedFrom=fulltext)
 
 **Zhichao Zhang**, Yufei Xue, Qiuyao Zhang, Hongliang Hu, Xiaoping Wu, Changsheng Song
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&
-- Appl. Phys. Lett. 127, 182402 (2025)
-https://doi.org/10.1063/5.0288764
+
+- Appl. Phys. Lett. 127, 182402 (2025); https://doi.org/10.1063/5.0288764
 </div>
 </div>
 
