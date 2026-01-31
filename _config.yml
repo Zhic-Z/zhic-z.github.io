@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhichao zhang"
-description              : "A senior undergraduate student, interested in topological quantum materials and spintronics."
+description              : "Senior undergraduate student"
 repository               : "Zhic-Z/zhic-z.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhichao zhang"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Zhejiang Sci-Tech University"
   location         : "Hangzhou, China"
   employer         :
