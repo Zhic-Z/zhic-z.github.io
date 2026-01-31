@@ -26,7 +26,7 @@ I am a senior undergraduate student at Zhejiang Sci‑Tech University and an inc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Physics Letters 2025</div><img src='paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The formation of elliptical Néel-type skyrmions via anisotropic exchange and Dzyaloshinskii–Moriya interactions](https://pubs.aip.org/aip/apl/article-abstract/127/18/182402/3370491/The-formation-of-elliptical-Neel-type-skyrmions?redirectedFrom=fulltext)
