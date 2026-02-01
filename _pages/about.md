@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-#  🤔 About Me
+# 🌟 About Me
 <span class='anchor' id='about-me'></span>
 
 I am a senior undergraduate student at Zhejiang Sci‑Tech University and an incoming PhD student at Nanjing University. My research interests lie in condensed matter physics, with a current focus on topological quantum materials and spintronics.
