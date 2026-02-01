@@ -43,7 +43,7 @@ I am a senior undergraduate student at Zhejiang Sci‑Tech University and an inc
 
 [一种基于风光热多能耦合的发电设备](https://kns.cnki.net/kcms2/article/abstract?v=Jq6vDUSEISAKEGHrljqfpO-F2qWn1suchYWoYImLDcwDSBc0PgtI18aQSCm65yQA-WXyd3PsbXBby1jMbuKNhP5czVNefvKw8D59frK2ro08NOHaJVC1Psd_7HTU8f6QEwtd1HER93wpQuZavXZZbE3jUImfvSU2&uniplatform=NZKPT)
 
-Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupling(1/10):202510754276.7[P].2025-08-15.
+Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupling:202510754276.7[P].2025-08-15.
 
 - Undergoing substantive examination, pending grant
 </div>
