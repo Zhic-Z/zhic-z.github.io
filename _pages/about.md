@@ -57,4 +57,4 @@ Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupli
 - *2022.09 - Present*: Bachelor of Engineering in New Energy Materials and Devices, Zhejiang Sci-Tech University 
 
 # 🖥️ Blogs
-- To be updated.
+- [Super-Z's Blog](https://zhic-z.github.io/blog/)
