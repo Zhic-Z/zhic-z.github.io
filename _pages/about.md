@@ -21,7 +21,7 @@ redirect_from:
 I am a senior undergraduate student at Zhejiang Sci‑Tech University and an incoming PhD student at Nanjing University. My research interests lie in condensed matter physics, with a current focus on topological quantum materials and spintronics.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: Currently on a gap year. 
 
 
 # 📝 Publications 
@@ -37,32 +37,23 @@ I am a senior undergraduate student at Zhejiang Sci‑Tech University and an inc
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💡 Patents 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention patent 2025</div><img src='images/patent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[一种基于风光热多能耦合的发电设备](https://kns.cnki.net/kcms2/article/abstract?v=Jq6vDUSEISAKEGHrljqfpO-F2qWn1suchYWoYImLDcwDSBc0PgtI18aQSCm65yQA-WXyd3PsbXBby1jMbuKNhP5czVNefvKw8D59frK2ro08NOHaJVC1Psd_7HTU8f6QEwtd1HER93wpQuZavXZZbE3jUImfvSU2&uniplatform=NZKPT)
+
+Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupling(1/10):202510754276.7[P].2025-08-15.
+
+- Undergoing substantive examination, pending grant
+</div>
+</div>
+
+# 🎖 Honors and Awards
+- *2025.08* Second Prize, China Undergraduate Physics Tournament (CUPT)
+- *2024.12* Third Prize, Chinese Undergraduate Physics Experiment Competition (CUPEC)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*: Bachelor of Engineering in New Energy Materials and Devices, Zhejiang Sci-Tech University 
 
-# <i class="fas fa-blog"></i> Blogs
-
-<div class="blog-grid">
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2025</div>
-      <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Claude Code Skills and Subagents in Practice</div>
-      <div class="blog-description">Two production-grade systems: a paywall-crossing paper harvester and a self-iterating AI Scientist, showing how Skills + Subagents scale LLM workflows.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s/_rHrBpRZX_U2Zmt8vRZ22Q" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/from-chat-tools-to-research-infrastructure-building-production-grade-workflows-with-claude-code-7da19194ab34" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
+# 🖥️ Blogs
