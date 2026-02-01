@@ -45,6 +45,24 @@ I am a senior undergraduate student at Zhejiang Sci‑Tech University and an inc
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# <i class="fas fa-blog"></i> Blogs
+
+<div class="blog-grid">
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">November, 2025</div>
+      <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Claude Code Skills and Subagents in Practice</div>
+      <div class="blog-description">Two production-grade systems: a paywall-crossing paper harvester and a self-iterating AI Scientist, showing how Skills + Subagents scale LLM workflows.</div>
+      <div class="blog-links">
+        <a href="https://mp.weixin.qq.com/s/_rHrBpRZX_U2Zmt8vRZ22Q" class="blog-link">
+          <i class="fas fa-language"></i> 中文版
+        </a>
+        <a href="https://jxtse.medium.com/from-chat-tools-to-research-infrastructure-building-production-grade-workflows-with-claude-code-7da19194ab34" class="blog-link">
+          <i class="fas fa-globe"></i> English
+        </a>
+      </div>
+    </div>
+  </div>
