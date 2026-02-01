@@ -49,9 +49,9 @@ Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupli
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2025.08* Second Prize, China Undergraduate Physics Tournament (CUPT)
-- *2024.12* Third Prize, Chinese Undergraduate Physics Experiment Competition (CUPEC)
+# 🏅 Honors and Awards
+- *2025.08*, Second Prize, China Undergraduate Physics Tournament (CUPT).
+- *2024.12*, Third Prize, Chinese Undergraduate Physics Experiment Competition (CUPEC).
 
 # 📖 Educations
 - *2022.09 - Present*: Bachelor of Engineering in New Energy Materials and Devices, Zhejiang Sci-Tech University 
