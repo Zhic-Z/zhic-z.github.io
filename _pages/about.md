@@ -74,6 +74,3 @@ Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupli
 
 # 🌏 Academic Experience
 - *2025.01*: Short-term academic programme, "Construction and Applications of Artificial Intelligence," National University of Singapore (NUS).
-
-# 🔗 Blogs
-- [Super-Z's Blog](https://zhic-z.github.io/blog/)
