@@ -63,12 +63,17 @@ Power Generation Equipment Based on Wind–Solar–Thermal Multi‑Energy Coupli
 </div>
 
 # 🏅 Honors and Awards
+- *2025.12*, National Scholarship.
+- *2025.12*, Top Ten Outstanding Undergraduate Students of Zhejiang Sci-Tech University.
 - *2025.08*, Second Prize, China Undergraduate Physics Tournament (CUPT).
 - *2024.12*, Third Prize, Chinese Undergraduate Physics Experiment Competition (CUPEC).
 
 # 📖 Educations
 - *2026.09 - Present*: PhD Student in Materials Science and Engineering, Nanjing University
 - *2022.09 - 2026.06*: Bachelor of Engineering in New Energy Materials and Devices, Zhejiang Sci-Tech University 
+
+# 🌏 Academic Experience
+- *2025.01*: Short-term academic programme, "Construction and Applications of Artificial Intelligence," National University of Singapore (NUS).
 
 # 🔗 Blogs
 - [Super-Z's Blog](https://zhic-z.github.io/blog/)
