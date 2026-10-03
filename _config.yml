@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhichao zhang"
-description              : "Senior undergraduate student"
+title                    : "Zhichao Zhang"
+description              : "PhD student (Year 1)"
 repository               : "Zhic-Z/zhic-z.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhichao zhang"
-  avatar           : "images/profile.png"
-  bio              : "Zhejiang Sci-Tech University"
-  location         : "Hangzhou, China"
+  name             : "Zhichao Zhang"
+  avatar           : "images/profile.jpg"
+  bio              : "Nanjing University"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
