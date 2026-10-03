@@ -18,10 +18,11 @@ redirect_from:
 # 🌟 About Me
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at Zhejiang Sci‑Tech University and an incoming PhD student at Nanjing University. My research interests lie in condensed matter physics, with a current focus on topological quantum materials and spintronics.
+I am a first-year PhD student at Nanjing University. My research interests include electronic transport and quantum properties of two-dimensional materials, micromagnetic simulations, and spintronics.
 
 # 🔥 News
-- *2026.02*: Currently on a gap year. 
+- *2026.09*: Started PhD studies.
+- *2026.06*: Received the Outstanding Undergraduate Thesis Award.
 
 
 # 📝 Publications 
