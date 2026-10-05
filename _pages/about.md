@@ -21,8 +21,7 @@ redirect_from:
 I am a first-year PhD student at Nanjing University. My research interests include:
 
 - Electronic transport and quantum properties of two-dimensional materials
-- Micromagnetic simulations
-- Spintronics
+- Spintronics and micromagnetic simulations
 
 # 🔥 News
 - *2026.09*: Started PhD studies.
